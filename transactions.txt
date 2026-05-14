@@ -1,0 +1,12 @@
+Income,Salary,500.00
+Expense,Subscriptions,100.00
+Income,Other,50.00
+
+Income,Refunds,100.0
+
+Expense,Bills,20.0
+
+
+
+Income,Refunds,1000.0
+Income,Other,1000.0
