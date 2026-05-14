@@ -228,10 +228,8 @@ class FinancialManager {
 						
 						if (type.equals("Income")) {
 							fileTransactions.add(new IncomeTransaction(category, amount));
-							System.out.println("Read: " + type + " - " + category + ", " + "$" + amount);
 						} else if (type.equals("Expense")) {
 							fileTransactions.add(new ExpenseTransaction(category, amount));
-							System.out.println("Read: " + type + " - " + category + ", " + "$" + amount);
 						}
 					}
 				}
